@@ -5,10 +5,10 @@
 
 * Version: 1.0    
 
-* Vulnerable file:subcat.php    
+* Vulnerable file: subcat.php    
 
-![image]()  
+![image](https://github.com/BigTiger2020/Travel-Management-System/blob/main/subcat.png)  
 
 * Sql Injection  :    
 
-![image]()  
+![image](https://github.com/BigTiger2020/Travel-Management-System/blob/main/sql.png)  
