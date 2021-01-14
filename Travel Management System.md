@@ -7,14 +7,14 @@
 * Version: 1.0     
 
 * Vulnerable file: updatepackage.php  
-![image]()  
+![image](https://github.com/BigTiger2020/Travel-Management-System/blob/main/updatepackage.png)  
 
 * Remote Code Execution:   
 
-![image]()    
+![image](https://github.com/BigTiger2020/Travel-Management-System/blob/main/upfile.png)    
 
-![image]()    
+![image](https://github.com/BigTiger2020/Travel-Management-System/blob/main/rce.png)    
 
 *Get shell:    
 
-![image]()   
+![image](https://github.com/BigTiger2020/Travel-Management-System/blob/main/shell.png)   
